@@ -1,0 +1,14 @@
+// * MIT License
+// *
+// * Copyright (c) 2023.09 Share Market [Kim JaeHyeon, Kim SuJin, Seo JinHyeok]
+// *
+// * The software is provided "as is," without any warranties, whether express or implied.
+// * The author or copyright holder disclaims all liability for any damages, claims, or other
+// * liabilities arising out of or in connection with the use of the software, including but 
+// * not limited to any warranties of merchantability, fitness for a particular purpose,
+// * and non-infringement.
+// *
+// * It's important to note that while the 'unlimited permissions' granted by this license
+// * offer significant freedom to use the software, caution is advised during its utilization.
+// * As with any software, unforeseen issues or defects may arise, and users are solely
+// * responsible for any resulting damages or problems.
