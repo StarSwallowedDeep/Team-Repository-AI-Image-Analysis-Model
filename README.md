@@ -110,3 +110,15 @@
     ![image](https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/aecc1a4f-9ca5-4262-9478-4edadef1010f)
     ![image](https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/cf5a04f9-f9fc-46b6-83a8-76eb38ad7f1e)
     ![image](https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/7926c344-8b0f-471c-a22c-a10390680a03)
+<br>
+
+## **Preview**
+<br>
+
+<p>
+<img src="https://github.com/StarSwallowedDeep/Code-Store-Repository/assets/139122242/39560ed9-310e-4db3-b2bf-e73e35970c5c" style="width: 19%">
+<img src="https://github.com/StarSwallowedDeep/Code-Store-Repository/assets/139122242/475a5ab5-db7f-4241-8362-eaa0688ab028" style="width: 19%">
+<img src="https://github.com/StarSwallowedDeep/Code-Store-Repository/assets/139122242/0c17e23c-17b9-4889-acba-ec29de4857d7" style="width: 19%">
+<img src="https://github.com/StarSwallowedDeep/Code-Store-Repository/assets/139122242/80d32ba1-d74b-477f-b0b7-6288bd0b23c2" style="width: 19%">
+<img src="https://github.com/StarSwallowedDeep/Code-Store-Repository/assets/139122242/a8e7c192-c64d-4962-b1fd-13558729648b" style="width: 19%">
+</p>
