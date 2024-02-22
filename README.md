@@ -37,7 +37,7 @@
     + 중고 물품을 경매로 판매하고 참여하는 서비스 제공
 
   <p>
-    <img src="https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/3d52c643-95ca-4ed6-a665-9258600948c9" style="width: 70%">
+    <img src="https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Server/assets/139122242/457b3d0e-d372-4805-bb27-b55cd7953014" style="width: 70%">
     <img src="https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/97d86e54-67a5-4501-ba33-8f40400879c2" style="width: 70%">
     <img src="https://github.com/StarSwallowedDeep/Team-Repository-Share-Market-Client/assets/139122242/f1d18924-de8f-49b4-9b89-daa7050698c8" style="width: 70%">
   </p>
